@@ -13,6 +13,6 @@ class LocalizationItem {
     this.findingPlace = 'Finding place...',
     this.noResultsFound = 'No results found',
     this.unnamedLocation = 'Unnamed location',
-    this.tapToSelectLocation = 'Tap to select this location',
+    this.tapToSelectLocation = 'Tap to share this location',
   });
 }
